@@ -72,7 +72,7 @@
 
 ![physics](./index/physics.png)
 
-用于配置物理的各项参数，详情请参考 [物理配置](physics-configs.md)。
+用于配置物理的各项参数，详情请参考 [物理配置](./../../physics/physics-configs.md)。
 
 ## 脚本
 
